@@ -1,0 +1,24 @@
+.background{
+    text-align: center;
+    
+}
+.wiki-logo{
+    height: 150px;
+    width: 150px;
+}
+.search{
+    width: 500px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+}
+.resulttitlecss{
+    font-size: 30px;
+    font-family: "roboto";
+    color: blue;
+    text-decoration-line: none;
+}
+.resultlinkcss{
+    color: rgb(2, 40, 2);
+    text-decoration-line: none;
+}
